@@ -6,7 +6,7 @@ Designing your own database schema
 
 **Due** : Thursday 12 October 2023
 
-![logo](graphics/drawnPlans.png)
+![logo](graphics/drawnplans.png)
 
 ## Project Goals
 The main goals of this work include the following.
