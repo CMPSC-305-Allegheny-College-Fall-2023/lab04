@@ -52,7 +52,7 @@ Please use a new dataset which you have not used for any other project. Anticipa
 
 ## Tables
 
-Your database is to be composed of four or more tables having at least four columns of observations. The tables are to hold all the data
+Your database is to be composed of four or more tables having at least four columns of observations.
 
 ## The Build File
 
