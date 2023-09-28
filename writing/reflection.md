@@ -12,7 +12,7 @@ There are no "right" or "wrong" answers to add to this document! Instead you are
 
 Questions:
 
-1. Describe the general application of your database.
+1. Describe the general application of your database. Please discuss your data and include some clear and meaningful discussion about the types of information can be retrieved.
     + `TODO`
 2. How current is the data that you used?
     + `TODO`

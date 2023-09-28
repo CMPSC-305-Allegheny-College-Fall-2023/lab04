@@ -1,22 +1,23 @@
-## Name
+# Name
 
 Add Your Name Here
 
-#### GitHub Account Name
+## GitHub Account Name
 
 Add Your Name Here
 
 ## Queries
 
-Add seven interesting questions which can only be answered by the data of your database. Note: your questions are to involve at least two tables for the query solution.
+Add seven interesting questions which can only be answered by the data of your database. Note: your questions are to involve at least two tables for their query solution.
 
 ---
 
-### 1. 
+### 1
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -25,11 +26,12 @@ TODO
 TODO
 
 
-### 2. 
+### 2
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -38,11 +40,12 @@ TODO
 TODO
 
 
-### 3. 
+### 3
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -51,11 +54,12 @@ TODO
 TODO
 
 
-### 4. 
+### 4
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -63,12 +67,12 @@ TODO
 + Two lines of output from query:
 TODO
 
-
-### 5. 
+### 5
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -76,12 +80,12 @@ TODO
 + Two lines of output from query:
 TODO
 
-
-### 6. 
+### 6
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
@@ -89,19 +93,18 @@ TODO
 + Two lines of output from query:
 TODO
 
-
-### 7. 
+### 7
 
 + Question: TODO
 
-+ Query: 
++ Query:
+
 ``` SQL
 TODO
 ```
 
 + Two lines of output from query:
 TODO
-
 
 ---
 
